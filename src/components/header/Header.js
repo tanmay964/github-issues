@@ -24,7 +24,7 @@ const navigationValues = [
     name: 'Projects', value: 2, selected: false, url: `${WEB_URL}/${OWNER}/${REPO}/projects`,
   },
   {
-    name: 'Actions', value: 2, selected: false, url: `${WEB_URL}/${OWNER}/${REPO}/projects`,
+    name: 'Actions', value: 2, selected: false, url: `${WEB_URL}/${OWNER}/${REPO}/actions`,
   },
   {
     name: 'Insights', selected: false, url: `${WEB_URL}/${OWNER}/${REPO}/insights`,
